@@ -17,9 +17,9 @@
 
 - 🎓 I'm currently studying **Information Technology**
 - 💻 Focused on **software development**, **cybersecurity** and **network infrastructure**
-- 🕷️ In my free time, I enjoy analyzing malware samples in a safe, controlled environment — curiosity is a dangerous thing, but so is ignorance.
-- 🧪 I like building tiny tools or automations to solve annoying problems — whether it’s forensics scripting, packet filtering or monitoring shady behavior in a VM
-- 🌐 I believe in deep work and writing code that’s not just functional, but maintainable with a touch of paranoia in every script.
+- 🕷️ In my free time, I analyze malware samples within secure, isolated environments. I believe that while curiosity can be risky, ignorance is often far more dangerous
+- 🧪 I enjoy developing small tools and automation scripts to tackle repetitive or frustrating tasks, such as forensic scripting, packet filtering or monitoring suspicious behavior in virtual environments.
+- 🌐 I believe in deep work and writing code that’s not just functional, but maintainable with a touch of paranoia in every script
 ---
 
 ## Interests
