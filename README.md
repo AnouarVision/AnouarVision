@@ -1,4 +1,4 @@
-<img src="icons/banner.webp" width="100%" alt="Project banner"/>
+<img src="banner.webp" width="100%" alt="Project banner"/>
 
 <h1 align="center">Hey, I'm AnouarVision 👋</h1>
 
