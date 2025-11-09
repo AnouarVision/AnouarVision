@@ -28,10 +28,6 @@
 - 🧪 Malware Analysis & Digital Forensics  
 - 🔐 Network Security & Ethical Hacking  
 - 🧠 Reverse Engineering  
-- 🛰️ Systems Administration  
-- 🧰 DevOps & Automation  
-- 🌱 Self-hosting, Linux and Server Hardening  
-- 🧱 Low‑level programming and Linux internals  
 - 🕶️ Human aspects of tech: social engineering, privacy, digital identity
 
 ---
@@ -107,7 +103,6 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 💌 Reach me on Linkedin: www.linkedin.com/in/anouar-naouri-7826061b9
-- 🤖 Feel free to fork my repos or open an issue. I’m always down to talk shop!
+- Reach me on Linkedin: www.linkedin.com/in/anouar-naouri-7826061b9
