@@ -1,21 +1,9 @@
-<div align="center">
-  <div style="
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-    padding: 10px;
-    scroll-snap-type: x mandatory;
-    width: 100%;
-    max-width: 900px;
-    border-radius: 12px;
-  ">
+<p align="center" style="white-space: nowrap; overflow-x: auto;">
+  <img src="pin3.png" width="300" style="border-radius:12px; display:inline-block; margin-right:10px;">
+  <img src="pin1.png" width="300" style="border-radius:12px; display:inline-block; margin-right:10px;">
+  <img src="pin2.png" width="300" style="border-radius:12px; display:inline-block;">
+</p>
 
-    <img src="pin1.png" width="100%" style="max-width:300px; scroll-snap-align:center; border-radius:12px;">
-    <img src="pin2.png" width="100%" style="max-width:300px; scroll-snap-align:center; border-radius:12px;">
-    <img src="pin3.png" width="100%" style="max-width:300px; scroll-snap-align:center; border-radius:12px;">
-
-  </div>
-</div>
 
 <h1 align="center">Hey, I'm AnouarVision 👋</h1>
 
