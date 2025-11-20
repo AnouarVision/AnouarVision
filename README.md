@@ -1,22 +1,20 @@
 <div align="center">
+  <div style="
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 10px;
+    scroll-snap-type: x mandatory;
+    width: 100%;
+    max-width: 900px;
+    border-radius: 12px;
+  ">
 
-  <div style="width: 100%; max-width: 750px; overflow: hidden; border-radius: 12px;">
-
-  <img id="slide1" src="pin1.png" width="100%" style="border-radius:12px;">
-
-  <img id="slide2" src="pin2.png" width="100%" style="border-radius:12px; display:none;">
-
-  <img id="slide3" src="pin3.png" width="100%" style="border-radius:12px; display:none;">
+    <img src="pin1.png" width="100%" style="max-width:300px; scroll-snap-align:center; border-radius:12px;">
+    <img src="pin2.png" width="100%" style="max-width:300px; scroll-snap-align:center; border-radius:12px;">
+    <img src="pin3.png" width="100%" style="max-width:300px; scroll-snap-align:center; border-radius:12px;">
 
   </div>
-
-  <!-- Navigation -->
-  <p align="center" style="margin-top:10px;">
-    <a href="#slide1">●</a>
-    <a href="#slide2">●</a>
-    <a href="#slide3">●</a>
-  </p>
-
 </div>
 
 <h1 align="center">Hey, I'm AnouarVision 👋</h1>
