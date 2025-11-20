@@ -1,7 +1,11 @@
-<p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <img src="pin3.png" width="600" style="border-radius:12px; display:inline-block; margin-right:10px;">
-  <img src="pin1.png" width="600" style="border-radius:12px; display:inline-block; margin-right:10px;">
+<p align="center">
+  <div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px;">
+    <img src="pin3.png" width="600" style="border-radius:12px; flex: 0 0 auto;">
+    <img src="pin1.png" width="600" style="border-radius:12px; flex: 0 0 auto;">
+    <img src="pin2.png" width="600" style="border-radius:12px; flex: 0 0 auto;">
+  </div>
 </p>
+
 
 
 <h1 align="center">Hey, I'm AnouarVision 👋</h1>
