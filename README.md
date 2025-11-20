@@ -1,19 +1,10 @@
-<p align="center">
-  <div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px;">
-    <img src="pin3.png" width="600" style="border-radius:12px; flex: 0 0 auto;">
-    <img src="pin1.png" width="600" style="border-radius:12px; flex: 0 0 auto;">
-    <img src="pin2.png" width="600" style="border-radius:12px; flex: 0 0 auto;">
-  </div>
-</p>
-
-
-
 <h1 align="center">Hey, I'm AnouarVision 👋</h1>
 
 <p align="center">
   <a href="https://github.com/AnouarVision"><img src="https://visitor-badge.laobi.icu/badge?page_id=AnouarVision.AnouarVision" alt="Visitors"></a>
   <a href="https://github.com/AnouarVision"><img src="https://img.shields.io/github/followers/AnouarVision?style=social" alt="GitHub Followers"/></a>
 </p>
+
 
 <h3 align="center"> I'm studying Internet Technologies, with a strong focus on coding and a keen interest in cybersecurity </h3>
 
@@ -100,6 +91,30 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnouarVision&layout=compact&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnouarVision&show_icons=true&theme=dark&include_all_commits=true"/>
+</div>
+
+---
+
+## Portfolio
+<div align="center">
+  <a href="https://lucina.com" target="_blank">
+    <img src="pin3.png" alt="Lucina Website Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
+  </a>
+  <p style="margin-top: 8px; font-size: 16px; color: #555; font-weight: 500;">
+    Website: Lucina
+  </p>
+  <a href="https://lucina.com" target="_blank">
+    <img src="pin1.png" alt="Lucina Website Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
+  </a>
+  <p style="margin-top: 8px; font-size: 16px; color: #555; font-weight: 500;">
+    Website: Nextstudy AI
+  </p>
+  <a href="https://lucina.com" target="_blank">
+    <img src="pin2.png" alt="Lucina Website Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
+  </a>
+  <p style="margin-top: 8px; font-size: 16px; color: #555; font-weight: 500;">
+    Website: Mauro's Nightmare
+  </p>
 </div>
 
 ---
