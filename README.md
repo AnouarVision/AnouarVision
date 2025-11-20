@@ -1,4 +1,23 @@
-<img src="banner.webp" width="100%" alt="Project banner"/>
+<div align="center">
+
+  <div style="width: 100%; max-width: 750px; overflow: hidden; border-radius: 12px;">
+    
+  <img id="slide1" src="pin1.webp" width="100%" style="border-radius:12px;">
+
+  <img id="slide2" src="pin2.webp" width="100%" style="border-radius:12px; display:none;">
+
+  <img id="slide3" src="pin3.webp" width="100%" style="border-radius:12px; display:none;">
+
+  </div>
+
+  <!-- Navigation -->
+  <p align="center" style="margin-top:10px;">
+    <a href="#slide1">●</a>
+    <a href="#slide2">●</a>
+    <a href="#slide3">●</a>
+  </p>
+
+</div>
 
 <h1 align="center">Hey, I'm AnouarVision 👋</h1>
 
