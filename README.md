@@ -1,7 +1,6 @@
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
   <img src="pin3.png" width="300" style="border-radius:12px; display:inline-block; margin-right:10px;">
   <img src="pin1.png" width="300" style="border-radius:12px; display:inline-block; margin-right:10px;">
-  <img src="pin2.png" width="300" style="border-radius:12px; display:inline-block;">
 </p>
 
 
