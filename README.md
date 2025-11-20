@@ -1,12 +1,12 @@
 <div align="center">
 
   <div style="width: 100%; max-width: 750px; overflow: hidden; border-radius: 12px;">
-    
-  <img id="slide1" src="pin1.webp" width="100%" style="border-radius:12px;">
 
-  <img id="slide2" src="pin2.webp" width="100%" style="border-radius:12px; display:none;">
+  <img id="slide1" src="pin1.png" width="100%" style="border-radius:12px;">
 
-  <img id="slide3" src="pin3.webp" width="100%" style="border-radius:12px; display:none;">
+  <img id="slide2" src="pin2.png" width="100%" style="border-radius:12px; display:none;">
+
+  <img id="slide3" src="pin3.png" width="100%" style="border-radius:12px; display:none;">
 
   </div>
 
@@ -43,10 +43,10 @@
 
 ## Interests
 
-- 🖥️ Software Engineering  
-- 🧪 Malware Analysis & Digital Forensics  
-- 🔐 Network Security & Ethical Hacking  
-- 🧠 Reverse Engineering  
+- 🖥️ Software Engineering
+- 🧪 Malware Analysis & Digital Forensics
+- 🔐 Network Security & Ethical Hacking
+- 🧠 Reverse Engineering
 - 🕶️ Human aspects of tech: social engineering, privacy, digital identity
 
 ---
@@ -74,7 +74,7 @@
 ### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
 </p>
@@ -117,7 +117,7 @@
 
 ## Quote That Drives Me
 
-> “Security is not a product, but a process.”  
+> “Security is not a product, but a process.”
 > — Bruce Schneier
 
 ---
