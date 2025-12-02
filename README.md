@@ -16,18 +16,19 @@
 
 - 🎓 I'm currently studying **Information Technology**
 - 💻 Focused on **software development**, **cybersecurity** and **network infrastructure**
-- 🕷️ In my free time, I analyze malware samples within secure, isolated environments. I believe that while curiosity can be risky, ignorance is often far more dangerous
-- 🧪 I enjoy developing small tools and automation scripts to tackle repetitive or frustrating tasks, such as forensic scripting, packet filtering or monitoring suspicious behavior in virtual environments.
-- 🌐 I believe in deep work and writing code that’s not just functional, but maintainable with a touch of paranoia in every script
+- 🧪 I like creating small tools, experimenting with ideas and developing projects that help me grow. Sometimes out of necessity, sometimes just out of curiosity
+- 🌐 I believe in continuous learning, deep work and understanding how things work under the surface, not just how to make them work.
 ---
 
 ## Interests
 
-- 🖥️ Software Engineering
-- 🧪 Malware Analysis & Digital Forensics
-- 🔐 Network Security & Ethical Hacking
-- 🧠 Reverse Engineering
-- 🕶️ Human aspects of tech: social engineering, privacy, digital identity
+- 🖥️ Software Development
+- 🔒 Cybersecurity & Defensive Practices
+- 🤖 Machine Learning & Applied AI
+- 🗄️ Networking & Infrastructure
+- ⚙️ Automation Tools & Scripting
+- 🧮 Mathematics
+- 📡 Systems Understanding & Low-Level Concepts
 
 ---
 
@@ -88,10 +89,19 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnouarVision&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnouarVision&show_icons=true&theme=dark&include_all_commits=true"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnouarVision&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnouarVision&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnouarVision&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnouarVision&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnouarVision&theme=github_dark" />
+</p>
 
 ---
 
