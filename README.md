@@ -12,7 +12,9 @@
 
 ## About Me
 
-<img align="right" alt="Hacking GIF" width="260" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
+<p align="center">
+  <img alt="Hacking GIF" width="260" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" />
+</p>
 
 - 🎓 I'm currently studying **Information Technology**
 - 💻 Focused on **software development**, **cybersecurity** and **network infrastructure**
