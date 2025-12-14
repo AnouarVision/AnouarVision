@@ -113,23 +113,23 @@
 ---
 ## Portfolio
 <div align="center">
-  <a href="https://lucina.com" target="_blank">
+  <a href="https://github.com/AnouarVision/Lucina" target="_blank">
     <img src="pin3.png" alt="Lucina Website Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   </a>
   <p style="margin-top: 8px; font-size: 16px; color: #555; font-weight: 500;">
     Website: Lucina
   </p>
-  <a href="https://lucina.com" target="_blank">
-    <img src="pin1.png" alt="Lucina Website Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
+  <a href="https://github.com/AnouarVision/NextStudyAI" target="_blank">
+    <img src="pin1.png" alt="NextstudyAI Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   </a>
   <p style="margin-top: 8px; font-size: 16px; color: #555; font-weight: 500;">
     Website: Nextstudy AI
   </p>
-  <a href="https://lucina.com" target="_blank">
-    <img src="pin2.png" alt="Lucina Website Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
+  <a href="https://github.com/Breaking-code-Project-work/Horizon_Analytics" target="_blank">
+    <img src="homepage-analytics.png" alt="Horizon Analytics Preview" width="750" style="border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   </a>
   <p style="margin-top: 8px; font-size: 16px; color: #555; font-weight: 500;">
-    Website: Mauro's Nightmare
+    Website: Horizon Analytics
   </p>
 </div>
 
