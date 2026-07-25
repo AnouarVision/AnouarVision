@@ -108,13 +108,7 @@
 </p>
 
 ---
-## LeetCode Progress
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Anouar404?theme=dark&font=ABeeZee&ext=activity" alt="LeetCode Stats" />
-</p>
-
----
 ## Portfolio
 <div align="center">
   <a href="https://github.com/AnouarVision/Lucina" target="_blank">
